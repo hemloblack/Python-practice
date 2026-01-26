@@ -1,4 +1,4 @@
-emails = ["ali@gmail.com", "sara@yahoo", "admin@site.ir", "reza@", "@hotmail.com", "hacker.com"]
+emails = ["ali@gmail.com", "sara@yahoo", "admin1@site.ir", "reza@", "@hotmail.com", "hacker.com"]
 
 for index, email in enumerate(emails,start=1):
    
@@ -13,4 +13,5 @@ for index, email in enumerate(emails,start=1):
       print(f"Email {index}:{email} ❌ Invalid")
       continue  
       
+
   
