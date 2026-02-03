@@ -1,0 +1,17 @@
+class Login:#ایجاد  کلاس
+    def __init__(self,username,password):#دریافت اطلاعات 
+        self.username=username
+        self.password=password
+    
+    def len_pass(self): # ساخت یک تابع برای محاسبه تعداد کاراکتر داخل پسورد
+        len_pas=len(self.password)
+        return len_pas# وقتی تابع فراخوانی بشه این مقدار ارسال میشه
+    
+    def show_info(self):# تابع برای نمایش اطلاعات
+        passwordstar="*" * self.len_pass()#به تعداد عدد ارسال شده * میزاره و رمز رو مخفی شده نمایش میده
+        print(f"hello im {self.username} my password in website {passwordstar}")
+         
+user =Login("ali", "hamidrezapor1385")#ارسال اطلاعات به کلاس
+user.show_info() #نمایش خروجی
+
+    
