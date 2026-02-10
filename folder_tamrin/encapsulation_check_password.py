@@ -4,7 +4,7 @@ class User:
         self.__password = password
 
     def login(self):
-        if self.__password == 123456:
+        if self.__password == 1234567:
             print(f"login successful!! | Welcome {self.__username} :)")
         else:
             print(f"access denied!! | incorrect password {self.__username} :(")
