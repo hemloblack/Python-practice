@@ -1,7 +1,7 @@
 import re
 
 while True:
-    password = input("Enter password: ")
+    password = input("Enter password : ")
 
     pattern = r"^[a-zA-Z0-9_@#!]{8,}$"  
 
