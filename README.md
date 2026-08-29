@@ -1,164 +1,145 @@
 # 🐍 Python Practice
 
 <p align="center">
-  <b>A collection of my Python exercises, experiments, and learning projects.</b>
+  <img src="https://skillicons.dev/icons?i=python" height="80" alt="Python"/>
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python" height="70" alt="Python"/>
+  <b>My Python learning journey, exercises & experiments</b>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-Practice-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Learning-Programming-6C5CE7?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Status-Active-00B894?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Learning-Active-00B894?style=for-the-badge"/>
+  <img src="https://img.shields.io/github/last-commit/hemloblack/Python-practice?style=for-the-badge"/>
 </p>
 
 ---
 
 ## 📖 About
 
-This repository contains my **Python practice and learning exercises**.
+This repository is a collection of my **Python exercises, experiments, and practice projects** created while learning and improving my Python skills.
 
-I created this repository while learning Python to experiment with different concepts, solve programming exercises, test ideas, and gradually improve my problem-solving and programming skills.
+Instead of being a single finished application, this repository documents my progress through different Python concepts and programming challenges.
 
-It includes everything from basic Python exercises to more practical topics such as **Object-Oriented Programming, Regular Expressions, Error Handling, Testing, Password Validation, User Access Levels, and Log Analysis**.
+> 🚀 **Learn → Practice → Experiment → Improve**
 
-> 🚀 This repository represents my learning process and progression with Python.
+New exercises and projects may be added over time as I continue learning.
 
 ---
 
-## 🧠 Topics Covered
+## 🧠 What I'm Practicing
 
 ### 🐍 Python Fundamentals
 
-* 🔢 Variables & Data Types
-* 🔀 Conditional Statements
-* 🔁 `for` & `while` Loops
-* 📋 Lists & Arrays
-* ✂️ String Manipulation
-* 🔢 Number & Mathematical Exercises
-* 🔤 `split()` & `enumerate()`
-* 🧩 Functions
-* 🧪 Basic Testing
+* Variables & Data Types
+* Strings
+* Lists & Collections
+* Conditions
+* Loops
+* Functions
+* Input / Output
+* Basic Algorithms
+* Problem Solving
 
-### ⚙️ Intermediate Concepts
+### ⚙️ Python Concepts
 
-* 🏗️ Classes & Objects
-* 🛡️ Error / Exception Handling
-* 🔍 Regular Expressions (`Regex`)
-* 🔐 Password Validation
-* 👤 Username & Email Validation
-* 🎚️ User Access Level Checking
-* 📊 User Log Analysis
+* Object-Oriented Programming
+* Classes & Objects
+* Exception Handling
+* Regular Expressions
+* File Handling
+* Data Validation
+* Testing
+* Code Organization
 
-### 🧪 Testing & Practice
+### 🔐 Practical & Security-Oriented Exercises
 
-The repository also contains several small test programs and exercises created to understand how different Python concepts behave in practice.
+Some exercises also explore concepts that can be useful for software and security development, such as:
+
+* 🔑 Password validation
+* 👤 User validation
+* 🎚️ Access-level checking
+* 📊 Log analysis
+* 🔍 Pattern matching with Regex
+
+---
+
+## 🛠️ Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,git,github,vscode" />
+</p>
 
 ---
 
 ## 📂 Repository Structure
 
-Some of the main exercises include:
+The repository is intentionally kept flexible.
 
-```text
-🐍 Python-practice
-│
-├── 📁 folder_tamrin/
-│
-├── 🏗️ Class_Create Employee Email.py
-├── 🛡️ Error handling.py
-├── 🎮 Gametaas.py
-├── 🔐 Password check.py
-├── 📊 Score status.py
-├── 👤 User Access Level Checker.py
-├── 📋 User Log Analysis.py
-│
-├── 🧪 def test calculate_cost.py
-├── 🧪 def test check_level.py
-├── 🧪 def test esay.py
-│
-├── 🔢 entery number.py
-├── 🔐 enumerate (test password).py
-├── 📧 enumerate. test email.py
-├── 🔢 enumerate.py
-│
-├── 🧮 esay_calculator.py
-├── 🎮 game esey.py
-│
-├── 📋 list-aray-tamrin.py
-├── 🔁 loop for test.py
-├── 🔁 loop while test2.py
-│
-├── 🔢 number.py
-│
-├── 🔐 regex password.py
-├── 👤 regex user name.py
-├── 🔍 regex.py
-│
-├── 🧩 split test level 1.py
-├── 🧩 split test level 2.py
-├── 🧩 split test level 3.py
-│
-└── 🔤 string test.py
-```
+There is **no fixed list of files or exercises in this README**, because new practice files and projects may be added as my learning progresses.
 
-The repository currently contains exercises covering these areas and has grown through multiple commits as part of the learning process.
+You can explore the repository to see the latest exercises and experiments.
 
 ---
 
-## 🔐 Security-Related Practice
+## 📈 Learning Progress
 
-One interesting part of this repository is that some exercises move beyond basic Python syntax into small security-oriented programming problems.
+My goal is to gradually move from Python fundamentals toward more advanced development.
 
-Examples include:
-
-* 🔐 Password checking
-* 🧩 Password validation with Regex
-* 👤 Username validation
-* 📧 Email validation
-* 🎚️ User access-level checking
-* 📊 User log analysis
-
-These exercises helped me connect Python programming with concepts that are useful for my longer-term interest in **software security and systems**.
+```text
+Python Fundamentals
+        ↓
+Intermediate Python
+        ↓
+Object-Oriented Programming
+        ↓
+Problem Solving
+        ↓
+Backend Development
+        ↓
+Machine Learning
+        ↓
+Advanced Projects
+```
 
 ---
 
 ## 🎯 Purpose
 
-The main goal of this repository is simple:
+This repository is mainly for:
 
-```text
-Learn → Practice → Experiment → Make Mistakes → Fix → Improve
-```
+* 📚 Learning Python
+* 🧪 Experimenting with concepts
+* 🧩 Solving programming exercises
+* 🧠 Improving problem-solving skills
+* 🚀 Building a foundation for larger projects
 
-Rather than being a single finished application, this repository documents my **Python learning journey** and the problems I worked through along the way.
+It is a **living repository**, so its content will continue to evolve as I learn new concepts.
 
 ---
 
-## 🚀 What's Next?
+## 🚀 Future Direction
 
-As I continue improving my Python skills, this repository will gradually move from small exercises toward:
+As my Python skills improve, I plan to use what I learn here in larger projects involving:
 
-* 🧩 More advanced Python problems
-* 🏗️ Larger projects
-* ⚙️ Backend development
-* 🤖 Machine Learning
-* 🔐 Security-focused projects
-
+🐍 **Python**
+⚙️ **Backend Development**
+🤖 **Machine Learning & Deep Learning**
+🐧 **Linux & Systems**
+🔐 **Secure Software Development**
 ---
 
 ## 👨‍💻 Author
 
 **Hamidreza**
 
-🐍 Python & Backend Development
 🎓 Software Engineering Student
+🐍 Python & Backend Development
 
 <p align="center">
   <a href="https://github.com/hemloblack">
-    <img src="https://img.shields.io/badge/GitHub-hemloblack-181717?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-hemloblack-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
