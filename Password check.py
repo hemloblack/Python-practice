@@ -1,11 +1,10 @@
-def is_positive(number):
-    if  not number>=0:
-        return "not correct! please again",False
-    else:
-        return "that`s correct ",True 
-        
+def check_password(password):
+    if len(password)>=8 and password.isdigit and password.isalpha:
+        return "strong"
+    elif password.isalpha and len(password)>=8 :
+        return "medium"
+    elif len(password)>=8:
+        return "weak"
+    else: return "invalid"
 
-num=int(input("enter number between 1,..."))
-print(is_positive(num))
-        
-        
+print(check_password("hllllllll"))
