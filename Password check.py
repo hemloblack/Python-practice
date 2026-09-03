@@ -7,4 +7,4 @@ def check_password(password):
         return "weak"
     else: return "invalid"
 
-print(check_password("hllllllll"))
+print(check_password("pass2223"))
